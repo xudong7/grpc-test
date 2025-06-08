@@ -1,4 +1,4 @@
-# A example using grpc and go to demonstrate client-server communication
+# An example using grpc and go to demonstrate client-server communication
 
 ## Overview
 
